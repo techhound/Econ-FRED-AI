@@ -7,6 +7,10 @@ Run this once in a terminal (not in the notebook) if the libraries are missing:
 ```bash
 pip install fredapi pandas matplotlib openai python-dotenv
 ```
+NOTE: If you have uv installed (recommended), the you'll need to use:
+```bash
+uv pip install fredapi pandas matplotlib openai python-dotenv
+```
 
 ## 2  Obtain API Keys
 ### 2.1  FRED API Key
